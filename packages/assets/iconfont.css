@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "iconfont";
+  src: url("./iconfont.eot?t=1596942140915"); /* IE9 */
+  src: url("./iconfont.eot?t=1596942140915#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPQAAsAAAAACCwAAAOBAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDFAqDcIMTATYCJAMQCwoABCAFhG0HRRv6BsiemjwpMcMECmFpU7EGw7NRPMCv++/cmfvmC0hICyUBfd2MDja2TWE7ld/RWjoB2ucN0QbkP7soQoX+YA6e9rK3HwSFoBLNbYWqB9uqVrjyxOV+jFk2AZ+ygLOxKA7kw7n5f4M2zosmP0eBfX4Dgv/PMdOltQ3z22wuGeWjvQGOEmhAUXFRdHigd6B4w9hNBA3xNAHF2oUVzRuenIFKEZgUEA7apgKVGb3YUBoUCrKKlVG4CuQUJuegz8AV/vfhq2QgSORSYObS3UM69H7AD1Zqp9lIEYBgOiuMdaQYBSJha6V9vZIoPqpEsTe41DiQiYJkKm8+D0eZfF+ZbfQfL5UQMqC4FEzIiZQPiFkEPpj8KoUlF0ngY6woRBFu4QWAa/VzcoK0s5AoK2ut9MrHCHj/WiLO2QByPrBD2hPvXYo+/5Ytoy/Eg6hz0+DZqkD2bdV6d2BZ2c6DZ3rRLhoFgJacFBksOpOtwNWTvnljeBXduJ6in4r65elwrJt4ZVi1Vf/ovFFRgftO19plrX+nle31wFadmZm7fhgc1NmrkoO9ro3wqGd9uHIfrjj+o1/HiuFPPtpMfVZv4Jh8TY6B7qnsbd+GihbRghz+OLODLL6nhH0Ze1pGSz9loZaQn2bTt+W07FMecOSepVT4FKV3TanGO91Aa4S2pqZATjbfUuhtS9JncgVbSvm4JJfrlf8zyB/pd9w///0KJ+6OJiuG4+2RK3+Zq0yHTdXz4ADkpQcwA6QLix8gf/qQXV2EwMMH1YpmoPy/0PM0De9nz07j/rwIw5SFN+gI/DdBx6roi4AhRleM+UFxNF8ZL6GgWDH+VzlU+zGFsq5zMUGhugQSBdogVagXGbGjkFNiAjKFZkKxESPrS9QQSoRYhGH7EgSV3iBR7h2kKn1BRux3yKn3EzKVAYZiq4O8Y4n+0CMVgYpEnanLzNZ43kAmSUTpFJqFrCLSIk6dQ+HaIZaIxvOpEcyjmGKOu2AmpTSYIXiODUvnYTbLmSN4GjUZtaR0emIxo+qLohrPATGXgBQS0jGqZYxNw+UZtL5ECr8/BZkKshSioaLHPgcJLrt7JiEq3gE5Is93qriVl7gWmJIkycAYBC6HGZasKAvjHONUD0tDGinKGhB19IgptYyu8ujyytwb7oBi4FNiSEIaYsjJtrmWaufLulnuIulaqGUitsQcAAAAAA==")
+      format("woff2"),
+    url("./iconfont.woff?t=1596942140915") format("woff"),
+    url("./iconfont.ttf?t=1596942140915") format("truetype"),
+    /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+      url("./iconfont.svg?t=1596942140915#iconfont") format("svg"); /* iOS 4.1- */
+}
+
+[class*="icon-"] {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ashbin:before {
+  content: "\e665";
+}
+
+.icon-close:before {
+  content: "\e668";
+}
+
+.icon-check-item:before {
+  content: "\e667";
+}
